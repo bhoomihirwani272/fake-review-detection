@@ -89,4 +89,6 @@ fake_review_detection/
 ├── visualization.py # Matplotlib visualizations
 ├── cleaning.py # preprocessing
 └── README.md
-
+ 
+Conclusion: 
+This project applies basic NLP techniques and rule-based logic to identify suspicious review patterns. It demonstrates how textual features can be converted into measurable signals to classify reviews as likely fake or genuine. Future improvements include implementing machine learning models for better accuracy.

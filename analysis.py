@@ -48,7 +48,6 @@ os.makedirs("output", exist_ok=True)
 final_output = df[
     [
         "review_text",
-        "rating",
         "sentiment",
         "fake_score",
         "final_label"
